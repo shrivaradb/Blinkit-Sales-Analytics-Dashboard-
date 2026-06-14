@@ -212,7 +212,7 @@ Blinkit-Sales-Analytics-Dashboard/
 
 
 ### 🔍 Data Explorer Dashboard
-
+<img width="1308" height="732" alt="Data Explorer" src="https://github.com/user-attachments/assets/7188adef-fba7-4659-9917-efb2d1caf98a" />
 
 ---
 
